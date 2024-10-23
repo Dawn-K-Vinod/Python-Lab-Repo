@@ -13,7 +13,7 @@ is_greater = num1 > num2
 is_equal = num1 == num2
 
 print("Sum:",sum,",Division:",division)
-print("Is num1 greater that num2?",is_greater)
+print("Is num1 greater than num2?",is_greater)
 print("Are num1 and num2 equal?",is_equal)
 
 print("Logical AND:",num1>0 and num2>0)
