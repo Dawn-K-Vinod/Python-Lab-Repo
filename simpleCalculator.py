@@ -11,7 +11,7 @@ num3=int(input("Enter third number:"))
 print("The sum of num1 and num2 is:",num1+num2)
 
 #Subtraction
-print("The difference when num2 is subtracted from num1 is:",num2-num1)
+print("The difference when num2 is subtracted from num1 is:",num1-num2)
 
 #Multiplication
 print("The product of num1 and num2 is:",num1*num2)
