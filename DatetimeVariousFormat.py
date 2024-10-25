@@ -1,3 +1,8 @@
+"""
+Author: Dawn K Vinod
+Date: 25-10-2024
+Description: Python program to Familiarize time and date in various formats.
+"""
 from datetime import datetime
 
 #current date and time
