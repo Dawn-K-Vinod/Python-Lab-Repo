@@ -16,23 +16,4 @@ for i in range(n):
 avg_fuel_efficiency=(total_distance/total_fuel)
 print(f"The average fuel efficiency is {avg_fuel_efficiency} km/l")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+
